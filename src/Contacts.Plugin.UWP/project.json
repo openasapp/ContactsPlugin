@@ -1,10 +1,10 @@
 ﻿{
   "dependencies": {
-    "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0",
-    "Plugin.Permissions": "1.2.1"
+    "Microsoft.NETCore.UniversalWindowsPlatform": "6.1.7",
+    "Plugin.Permissions": "3.0.0.12"
   },
   "frameworks": {
-    "uap10.0": {}
+    "uap10.0.10586": {}
   },
   "runtimes": {
     "win10-arm": {},

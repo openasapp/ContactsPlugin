@@ -28,10 +28,10 @@
        <tags>xamarin, pcl, xam.pcl, contacts, windows phone, winphone, wp8, android, xamarin.forms, ios, plugins, plugins for xamarin</tags>
        <dependencies>
            <group targetFramework="MonoAndroid10">
-               <dependency id="Plugin.Permissions" version="1.2.1"/>
+               <dependency id="Plugin.Permissions" version="3.0.0.12"/>
            </group>
          <group targetFramework="uap">
-           <dependency id="Plugin.Permissions" version="1.2.1"/>
+           <dependency id="Plugin.Permissions" version="3.0.0.12"/>
          </group>
        </dependencies>
    </metadata>
